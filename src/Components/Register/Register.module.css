@@ -1,0 +1,33 @@
+.Register {
+}
+
+.formControl:focus {
+  border-color: #daffdc !important;
+  box-shadow: 0 0 0 0.25rem #85fec6 !important;
+}
+
+.registrationContainer {
+  background-color: rgba(0, 0, 0, 0.427);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.registrationBox {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* .form {
+  
+  
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 1rem;
+  box-shadow: 6px 12px 60px rgba(0,0,0,.2);
+} */
+
+
+

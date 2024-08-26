@@ -1,0 +1,59 @@
+.Item {
+}
+
+
+.cardProduct{
+    border: 1px solid #dfe2e1;
+}
+.cardProduct:hover{
+    border: 1px solid #0aad0a;
+    box-shadow: 0 5px 12px rgba(0,0,0,.12);
+    transition: 0.2s;
+}
+
+.cartProductAction{
+    bottom: 15%;
+    left: 50%;
+    opacity: 1;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    transition: all .3s ease 0s;
+    visibility: visible;
+    width: 100%;
+    z-index: 9 ;
+}
+
+
+
+.cartProductActionButton {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px -1px rgba(145, 158, 171, 0.2),
+      0 4px 5px 0 rgba(145, 158, 171, 0.14),
+      0 1px 10px 0 rgba(145, 158, 171, 0.12);
+    color:#878787;
+    display: inline-flex;
+    font-size: 14px;
+    height: 34px;
+    justify-content: center;
+    line-height: 34px;
+    text-align: center;
+    transition: all 0.3s ease 0s;
+    vertical-align: middle;
+    width: 34px;
+    border: none;
+    margin-right: 4px;
+  }
+  
+  .cartProductActionButton:hover {
+    background-color: #3cc440;
+    color: #fff;
+  }
+  
+
+  .addedToWishlist {
+    color: #ff0707; /* Red color */
+    /* background-color: #ff0707; */
+  }
+  

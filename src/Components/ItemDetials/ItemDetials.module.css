@@ -1,0 +1,33 @@
+.ItemDetials {}
+
+.cartProductActionButton {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 0.5rem;
+  
+    color:#878787;
+    display: inline-flex;
+    font-size: 14px;
+    background-color: #f0f3f2;
+    justify-content: center;
+    line-height: 34px;
+    text-align: center;
+    transition: all 0.3s ease 0s;
+    vertical-align: middle;
+    width: 34px;
+    border: none;
+    margin-right: 4px;
+  }
+  
+  .cartProductActionButton:hover {
+    background-color: #bcbcbc;
+    color: #000000;
+  }
+  
+  .mainColor{
+    color: #3afd3a;
+  }
+
+  .maxHeight{
+    min-height: 250px;
+  }
