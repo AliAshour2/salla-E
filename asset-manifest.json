@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/AliAshour2/salla/static/css/main.88f4e757.css",
+    "main.js": "/AliAshour2/salla/static/js/main.e75aacf3.js",
+    "static/media/fa-solid-900.ttf": "/AliAshour2/salla/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/AliAshour2/salla/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/bootstrap-icons.woff?": "/AliAshour2/salla/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/AliAshour2/salla/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/bootstrap-icons.woff2?": "/AliAshour2/salla/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/AliAshour2/salla/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/AliAshour2/salla/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/ms2.jpg": "/AliAshour2/salla/static/media/ms2.7d07fb5332d49e8ae244.jpg",
+    "static/media/ms1.jpg": "/AliAshour2/salla/static/media/ms1.087a68455d2bd6a93640.jpg",
+    "static/media/fa-regular-400.woff2": "/AliAshour2/salla/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/error.png": "/AliAshour2/salla/static/media/error.6b6aaa1d19455ef6eec7.png",
+    "static/media/amazon-pay.png": "/AliAshour2/salla/static/media/amazon-pay.349e02c09daf15fd3aec.png",
+    "static/media/logo.png": "/AliAshour2/salla/static/media/logo.e36f560077dd2cd91a6d.png",
+    "static/media/fa-v4compatibility.ttf": "/AliAshour2/salla/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/applestore.svg": "/AliAshour2/salla/static/media/applestore.1c7c005af3cfcf8f6fed8c6ec9e0a9ea.svg",
+    "static/media/fa-v4compatibility.woff2": "/AliAshour2/salla/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/AliAshour2/salla/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AliAshour2/salla/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AliAshour2/salla/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AliAshour2/salla/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AliAshour2/salla/index.html",
+    "main.88f4e757.css.map": "/AliAshour2/salla/static/css/main.88f4e757.css.map",
+    "main.e75aacf3.js.map": "/AliAshour2/salla/static/js/main.e75aacf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88f4e757.css",
+    "static/js/main.e75aacf3.js"
+  ]
+}
