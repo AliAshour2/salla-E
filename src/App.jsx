@@ -24,7 +24,7 @@ function App() {
       element: <LayOut />,
       children: [
         {
-          index : "true",
+          index : true,
           path: "home",
           element: (
             <ProtectedRoutes>
@@ -121,7 +121,7 @@ function App() {
     if (localStorage.getItem("userToken") != null) {
       setToken(localStorage.getItem("userToken"));
     }
-  });
+  },[setToken]);
 
   return (
     <>
